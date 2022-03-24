@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1331659790c247efba31ba7445434002, type: 3}
+  m_Name: ParabolicRotation
+  m_EditorClassIdentifier: 
+  speed: 300
+  moveCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 2
+      outSlope: 2
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 2.2581036
+      value: -0.8464514
+      inSlope: -3.358849
+      outSlope: -3.358849
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.10346592
+      outWeight: 0
+    - serializedVersion: 3
+      time: 2.967462
+      value: -0.09055138
+      inSlope: -0.72334415
+      outSlope: -0.72334415
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.49521318
+    - serializedVersion: 3
+      time: 4.0697966
+      value: 1.1521618
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 5.00889
+      value: 1.526054
+      inSlope: 2.805332
+      outSlope: 2.805332
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.6959293
+    - serializedVersion: 3
+      time: 5.7941504
+      value: -0.7953284
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 6.991915
+      value: 1.7964219
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 8.968126
+      value: -1.1028725
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 11.275043
+      value: 1.9361858
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 12.029106
+      value: 0.06288723
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 1
+    m_RotationOrder: 4
